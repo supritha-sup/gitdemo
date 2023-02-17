@@ -1,0 +1,4 @@
+seleniumframework\test\standalone.class
+seleniumframework\test\ErrorValidation.class
+seleniumframework\testcomponenets\BaseTest.class
+seleniumframework\test\standalonedatadriven.class

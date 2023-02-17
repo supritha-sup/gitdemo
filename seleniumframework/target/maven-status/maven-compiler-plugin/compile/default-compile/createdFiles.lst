@@ -1,0 +1,8 @@
+seleniumframework\pagemodel\CheckOutPage.class
+seleniumframework\resources\ExtentsreportsNG.class
+seleniumframework\pagemodel\productCatalague.class
+seleniumframework\abstratComponents\abstractComponenets.class
+seleniumframework\pagemodel\CartPage.class
+seleniumframework\pagemodel\ConfirmPage.class
+seleniumframework\pagemodel\OrderPage.class
+seleniumframework\pagemodel\landingpage.class
