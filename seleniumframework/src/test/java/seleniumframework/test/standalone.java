@@ -60,6 +60,7 @@ public class standalone extends BaseTest {
 		productCatalague productCatalague = landingpage.loginApplication("suppunayak9@gmail.com", "Suppi@123");
 		OrderPage orderpage = productCatalague.gotoOrderPage();
 		Assert.assertTrue(orderpage.toverifyorderproducts(productname));
+		System.out.println(productname);
 	}
 	
 	
